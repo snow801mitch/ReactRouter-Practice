@@ -6,6 +6,10 @@
   color: pink;
 }
 
+.navLinks {
+  color: White;
+}
+
 .Navigation {
   list-style-type: none;
   display: flex;
